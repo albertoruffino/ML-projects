@@ -21,8 +21,8 @@ My background in physics gives me a strong foundation in mathematics, modeling, 
 |---------|-------------|-------|--------|-----------------|
 | [ Gender Classification](https://github.com/albertoruffino/ML-projects/tree/main/Gender-Classification) | Predicts gender from height and weight using a neural network. Includes data preprocessing, normalization, and train/test evaluation. | Python, PyTorch, scikit-learn, Matplotlib, Pandas | ✔️ Completed | ~91% test accuracy |
 | [Breast Cancer Classification](https://github.com/albertoruffino/ML-projects/tree/main/Breast_Cancer_Classification) | Predicts tumor malignancy (benign/malignant) using a fully connected neural network. Includes data preprocessing, normalization, and train/test evaluation. | Python, PyTorch, scikit-learn, Matplotlib | ✔️ Completed | ~91% test accuracy |
-| [MNIST CNN Classification]([link_to_mnist_cnn_notebook](https://github.com/albertoruffino/ML-projects/tree/main/MNIST-Digit-Classification)) | Classifies handwritten digits from MNIST using a CNN. Implements data augmentation, normalization, and tracks accuracy per epoch. | Python, PyTorch, torchvision, Matplotlib | ✔️ Completed | ~96% test accuracy |
-| [PINN Damped Harmonic Oscillator]([link_to_pinn_dho_notebook](https://github.com/albertoruffino/ML-projects/tree/main/PINN-Damped-Harmonic-Oscillator)) | Physics-Informed Neural Network modeling a damped harmonic oscillator. Incorporates ODE physics and boundary conditions in the loss function. Estimates damping μ from noisy data. | Python, PyTorch, Matplotlib | ✔️ Completed | μ estimated ≈ true μ |
+| [MNIST CNN Classification](https://github.com/albertoruffino/ML-projects/tree/main/MNIST-Digit-Classification) | Classifies handwritten digits from MNIST using a CNN. Implements data augmentation, normalization, and tracks accuracy per epoch. | Python, PyTorch, torchvision, Matplotlib | ✔️ Completed | ~96% test accuracy |
+| [PINN Damped Harmonic Oscillator](https://github.com/albertoruffino/ML-projects/tree/main/PINN-Damped-Harmonic-Oscillator) | Physics-Informed Neural Network modeling a damped harmonic oscillator. Incorporates ODE physics and boundary conditions in the loss function. Estimates damping μ from noisy data. | Python, PyTorch, Matplotlib | ✔️ Completed | μ estimated ≈ true μ |
 
 ---
 
@@ -33,5 +33,5 @@ My background in physics gives me a strong foundation in mathematics, modeling, 
 
 ---
 
-📫 **Let’s Connect:** [LinkedIn](www.linkedin.com/in/alberto-ruffino-b8a527286) | [Email](mailto: ruffinoalb@gmail.com)
+📫 **Let’s Connect:** [LinkedIn](www.linkedin.com/in/alberto-ruffino-b8a527286) | [Email](ruffinoalb@gmail.com)
 
