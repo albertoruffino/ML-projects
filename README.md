@@ -29,7 +29,6 @@ My background in physics gives me a strong foundation in mathematics, modeling, 
 ## 🧰 Tech Stack
 - **Languages:** Python 
 - **Libraries:** NumPy, Pandas, Matplotlib, PyTorch, torchvision, scikit-learn   
-- **Tools:** Google Colab, Jupyter, Git, GitHub
 
 ---
 
