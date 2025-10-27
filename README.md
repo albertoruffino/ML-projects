@@ -1,4 +1,4 @@
-# 🧠 ML-Projects
+# ML-Projects
 
 ## 👋 Hi, I'm Alberto Ruffino.
 
