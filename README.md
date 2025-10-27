@@ -8,7 +8,7 @@ My background in physics gives me a strong foundation in mathematics, modeling, 
 ---
 
 ## 🔭 Current Focus
-- Machine Learning fundamentals (regression, classification, clustering)
+- Machine Learning fundamentals (regression and classification)
 - Data analysis and visualization in Python
 - Physics-Informed Neural Networks (PINNs)
 - Deep learning and scientific machine learning applications
