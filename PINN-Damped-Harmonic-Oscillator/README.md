@@ -58,7 +58,7 @@ $\delta = \frac{\mu}{2m}$ and $\omega = \sqrt{\frac{k}{m} - \delta^2}$
 ---
 
 ## Common Features
-- Implemented in **Python 3.x** with **PyTorch**
+- Implemented in **Python** with **PyTorch**
 - Leverages **automatic differentiation** for computing derivatives
 - GPU support if available
 - Detailed visualizations of training loss, predictions, and parameter estimation
