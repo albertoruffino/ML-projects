@@ -22,7 +22,6 @@ Dataset URL: [Heights, Weights, Genders CSV](https://raw.githubusercontent.com/j
 
 ## Technologies
 - PyTorch
-- NumPy
 - Pandas
 - Matplotlib
 - scikit-learn
